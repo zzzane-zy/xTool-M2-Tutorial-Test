@@ -1,0 +1,30 @@
+schema_version: 1
+project: xtool-m2-interactive-guide
+subject:
+  identity: xTool M2 and its three retail kits
+  geometry: product photography and official instructional diagrams
+  materials: white polymer enclosure, dark glass lid, orange interaction accents
+style:
+  tone: concise, friendly, calm, task-oriented
+  user_words:
+    - 丝滑
+    - 重点清晰
+    - 自然流畅
+    - 快速理解
+background_owner: page
+driver: component_state_and_scroll
+input_semantics: event_driven_navigation
+time_control: continuous
+navigation: continuous_long_scroll
+clip_continuity: independent_pages_shared_shell
+destination:
+  platforms:
+    - desktop_browser
+    - mobile_browser
+    - local_file
+  delivery: static_multi_page_html
+continuity:
+  kit_selection: retained_in_destination_links
+  learning_modes: persistent_side_rail_or_mobile_bottom_bar
+  guide: continuous_vertical_flow
+

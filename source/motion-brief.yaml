@@ -1,0 +1,21 @@
+schema_version: 1
+interaction:
+  parameter_space: discrete
+  media_access: random_access
+  gesture_policy:
+    desktop: pointer_hover_click_and_scroll
+    mobile: touch_and_scroll
+  reduced_motion: remove_reveal_translation_and_shorten_transitions
+motion:
+  page_enter_ms: 320
+  page_leave_ms: 170
+  reveal_trigger: viewport_intersection
+  reveal_distance_px: 18
+  navigation_rail:
+    desktop: right_edge_expand_on_hover
+    mobile: fixed_bottom_tabs
+  guide_progress: scroll_linked_scale
+media:
+  generated_media: false
+  reason: official instructional images provide the required accuracy
+

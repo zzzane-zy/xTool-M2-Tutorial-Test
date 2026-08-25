@@ -1,0 +1,55 @@
+{
+  "source_pdf": "C:\\Users\\mk13802\\Downloads\\JS002_RA3lite_操作指引_线上版_ZH.pdf",
+  "pages_rendered": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "embedded_images": [
+    {
+      "xref": 52,
+      "pages": [
+        1,
+        20
+      ],
+      "width": 5998,
+      "height": 4500,
+      "ext": "jpeg",
+      "bytes": 9471311,
+      "file": "embedded/ra3-xref-00052.jpeg"
+    }
+  ],
+  "page_content_files": [
+    "pages/ra3-page-03-content.png",
+    "pages/ra3-page-04-content.png",
+    "pages/ra3-page-05-content.png",
+    "pages/ra3-page-06-content.png",
+    "pages/ra3-page-07-content.png",
+    "pages/ra3-page-08-content.png",
+    "pages/ra3-page-09-content.png",
+    "pages/ra3-page-10-content.png",
+    "pages/ra3-page-11-content.png",
+    "pages/ra3-page-12-content.png",
+    "pages/ra3-page-13-content.png",
+    "pages/ra3-page-14-content.png",
+    "pages/ra3-page-15-content.png",
+    "pages/ra3-page-16-content.png",
+    "pages/ra3-page-17-content.png",
+    "pages/ra3-page-18-content.png",
+    "pages/ra3-page-19-content.png"
+  ]
+}

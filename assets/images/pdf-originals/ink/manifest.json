@@ -1,0 +1,682 @@
+{
+  "source_pdf": "C:\\Users\\mk13802\\Downloads\\260825_JS002.1 用户手册_更新V2.2.pdf",
+  "pages_rendered": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "embedded_images": [
+    {
+      "xref": 2932,
+      "pages": [
+        1
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 14797864,
+      "file": "embedded/ink-xref-02932.png"
+    },
+    {
+      "xref": 2933,
+      "pages": [
+        1
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 14797864,
+      "file": "embedded/ink-xref-02933.png"
+    },
+    {
+      "xref": 2934,
+      "pages": [
+        1
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 14797864,
+      "file": "embedded/ink-xref-02934.png"
+    },
+    {
+      "xref": 2935,
+      "pages": [
+        1
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 14797864,
+      "file": "embedded/ink-xref-02935.png"
+    },
+    {
+      "xref": 2936,
+      "pages": [
+        1
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 16004306,
+      "file": "embedded/ink-xref-02936.png"
+    },
+    {
+      "xref": 2946,
+      "pages": [
+        3
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 149285,
+      "file": "embedded/ink-xref-02946.png"
+    },
+    {
+      "xref": 2947,
+      "pages": [
+        3
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 373976,
+      "file": "embedded/ink-xref-02947.png"
+    },
+    {
+      "xref": 2948,
+      "pages": [
+        3
+      ],
+      "width": 1800,
+      "height": 1800,
+      "ext": "png",
+      "bytes": 38136,
+      "file": "embedded/ink-xref-02948.png"
+    },
+    {
+      "xref": 2949,
+      "pages": [
+        3
+      ],
+      "width": 1500,
+      "height": 1500,
+      "ext": "png",
+      "bytes": 239451,
+      "file": "embedded/ink-xref-02949.png"
+    },
+    {
+      "xref": 2950,
+      "pages": [
+        3
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 694999,
+      "file": "embedded/ink-xref-02950.png"
+    },
+    {
+      "xref": 2951,
+      "pages": [
+        3
+      ],
+      "width": 256,
+      "height": 256,
+      "ext": "png",
+      "bytes": 15841,
+      "file": "embedded/ink-xref-02951.png"
+    },
+    {
+      "xref": 2952,
+      "pages": [
+        3
+      ],
+      "width": 1800,
+      "height": 1800,
+      "ext": "png",
+      "bytes": 104660,
+      "file": "embedded/ink-xref-02952.png"
+    },
+    {
+      "xref": 2953,
+      "pages": [
+        3
+      ],
+      "width": 1500,
+      "height": 1500,
+      "ext": "png",
+      "bytes": 125018,
+      "file": "embedded/ink-xref-02953.png"
+    },
+    {
+      "xref": 2958,
+      "pages": [
+        4
+      ],
+      "width": 1800,
+      "height": 1800,
+      "ext": "png",
+      "bytes": 38136,
+      "file": "embedded/ink-xref-02958.png"
+    },
+    {
+      "xref": 2959,
+      "pages": [
+        4
+      ],
+      "width": 1800,
+      "height": 1800,
+      "ext": "png",
+      "bytes": 609822,
+      "file": "embedded/ink-xref-02959.png"
+    },
+    {
+      "xref": 2960,
+      "pages": [
+        4
+      ],
+      "width": 1800,
+      "height": 1800,
+      "ext": "png",
+      "bytes": 609822,
+      "file": "embedded/ink-xref-02960.png"
+    },
+    {
+      "xref": 2961,
+      "pages": [
+        4
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 618857,
+      "file": "embedded/ink-xref-02961.png"
+    },
+    {
+      "xref": 2962,
+      "pages": [
+        4
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 614911,
+      "file": "embedded/ink-xref-02962.png"
+    },
+    {
+      "xref": 2967,
+      "pages": [
+        5
+      ],
+      "width": 1800,
+      "height": 1800,
+      "ext": "png",
+      "bytes": 631198,
+      "file": "embedded/ink-xref-02967.png"
+    },
+    {
+      "xref": 2968,
+      "pages": [
+        5
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 1493548,
+      "file": "embedded/ink-xref-02968.png"
+    },
+    {
+      "xref": 2969,
+      "pages": [
+        5
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 545561,
+      "file": "embedded/ink-xref-02969.png"
+    },
+    {
+      "xref": 2970,
+      "pages": [
+        5
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 694999,
+      "file": "embedded/ink-xref-02970.png"
+    },
+    {
+      "xref": 2870,
+      "pages": [
+        6
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 1650282,
+      "file": "embedded/ink-xref-02870.png"
+    },
+    {
+      "xref": 2871,
+      "pages": [
+        6
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 1614545,
+      "file": "embedded/ink-xref-02871.png"
+    },
+    {
+      "xref": 2872,
+      "pages": [
+        6
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 1721474,
+      "file": "embedded/ink-xref-02872.png"
+    },
+    {
+      "xref": 2877,
+      "pages": [
+        7
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 16004306,
+      "file": "embedded/ink-xref-02877.png"
+    },
+    {
+      "xref": 2878,
+      "pages": [
+        7
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 1720093,
+      "file": "embedded/ink-xref-02878.png"
+    },
+    {
+      "xref": 2879,
+      "pages": [
+        7
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 1437461,
+      "file": "embedded/ink-xref-02879.png"
+    },
+    {
+      "xref": 2884,
+      "pages": [
+        8
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 16004306,
+      "file": "embedded/ink-xref-02884.png"
+    },
+    {
+      "xref": 2885,
+      "pages": [
+        8
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 1057078,
+      "file": "embedded/ink-xref-02885.png"
+    },
+    {
+      "xref": 2886,
+      "pages": [
+        8
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 373976,
+      "file": "embedded/ink-xref-02886.png"
+    },
+    {
+      "xref": 2891,
+      "pages": [
+        9
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 16004306,
+      "file": "embedded/ink-xref-02891.png"
+    },
+    {
+      "xref": 2892,
+      "pages": [
+        9
+      ],
+      "width": 1800,
+      "height": 1800,
+      "ext": "png",
+      "bytes": 104660,
+      "file": "embedded/ink-xref-02892.png"
+    },
+    {
+      "xref": 2893,
+      "pages": [
+        9
+      ],
+      "width": 1500,
+      "height": 1500,
+      "ext": "png",
+      "bytes": 70407,
+      "file": "embedded/ink-xref-02893.png"
+    },
+    {
+      "xref": 2898,
+      "pages": [
+        10
+      ],
+      "width": 1800,
+      "height": 1800,
+      "ext": "png",
+      "bytes": 38136,
+      "file": "embedded/ink-xref-02898.png"
+    },
+    {
+      "xref": 2899,
+      "pages": [
+        10
+      ],
+      "width": 1500,
+      "height": 1500,
+      "ext": "png",
+      "bytes": 2314702,
+      "file": "embedded/ink-xref-02899.png"
+    },
+    {
+      "xref": 2900,
+      "pages": [
+        10
+      ],
+      "width": 1500,
+      "height": 1500,
+      "ext": "png",
+      "bytes": 2315430,
+      "file": "embedded/ink-xref-02900.png"
+    },
+    {
+      "xref": 2901,
+      "pages": [
+        10
+      ],
+      "width": 1500,
+      "height": 1500,
+      "ext": "png",
+      "bytes": 1390859,
+      "file": "embedded/ink-xref-02901.png"
+    },
+    {
+      "xref": 2902,
+      "pages": [
+        10
+      ],
+      "width": 1800,
+      "height": 1800,
+      "ext": "png",
+      "bytes": 104660,
+      "file": "embedded/ink-xref-02902.png"
+    },
+    {
+      "xref": 2903,
+      "pages": [
+        10
+      ],
+      "width": 1500,
+      "height": 1500,
+      "ext": "png",
+      "bytes": 70407,
+      "file": "embedded/ink-xref-02903.png"
+    },
+    {
+      "xref": 42,
+      "pages": [
+        11
+      ],
+      "width": 2800,
+      "height": 2800,
+      "ext": "png",
+      "bytes": 2483721,
+      "file": "embedded/ink-xref-00042.png"
+    },
+    {
+      "xref": 43,
+      "pages": [
+        11
+      ],
+      "width": 1500,
+      "height": 1500,
+      "ext": "png",
+      "bytes": 1321132,
+      "file": "embedded/ink-xref-00043.png"
+    },
+    {
+      "xref": 44,
+      "pages": [
+        11
+      ],
+      "width": 1500,
+      "height": 1500,
+      "ext": "png",
+      "bytes": 2301316,
+      "file": "embedded/ink-xref-00044.png"
+    },
+    {
+      "xref": 45,
+      "pages": [
+        11
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 545561,
+      "file": "embedded/ink-xref-00045.png"
+    },
+    {
+      "xref": 46,
+      "pages": [
+        11
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 694999,
+      "file": "embedded/ink-xref-00046.png"
+    },
+    {
+      "xref": 52,
+      "pages": [
+        12
+      ],
+      "width": 2800,
+      "height": 2800,
+      "ext": "png",
+      "bytes": 2483721,
+      "file": "embedded/ink-xref-00052.png"
+    },
+    {
+      "xref": 53,
+      "pages": [
+        12
+      ],
+      "width": 2500,
+      "height": 2500,
+      "ext": "png",
+      "bytes": 165530,
+      "file": "embedded/ink-xref-00053.png"
+    },
+    {
+      "xref": 54,
+      "pages": [
+        12
+      ],
+      "width": 1500,
+      "height": 1500,
+      "ext": "png",
+      "bytes": 125018,
+      "file": "embedded/ink-xref-00054.png"
+    },
+    {
+      "xref": 59,
+      "pages": [
+        13
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 202390,
+      "file": "embedded/ink-xref-00059.png"
+    },
+    {
+      "xref": 60,
+      "pages": [
+        13
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 523742,
+      "file": "embedded/ink-xref-00060.png"
+    },
+    {
+      "xref": 65,
+      "pages": [
+        14
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 395131,
+      "file": "embedded/ink-xref-00065.png"
+    },
+    {
+      "xref": 66,
+      "pages": [
+        14
+      ],
+      "width": 2000,
+      "height": 2000,
+      "ext": "png",
+      "bytes": 484165,
+      "file": "embedded/ink-xref-00066.png"
+    },
+    {
+      "xref": 67,
+      "pages": [
+        14
+      ],
+      "width": 900,
+      "height": 900,
+      "ext": "png",
+      "bytes": 137577,
+      "file": "embedded/ink-xref-00067.png"
+    },
+    {
+      "xref": 77,
+      "pages": [
+        16
+      ],
+      "width": 258,
+      "height": 258,
+      "ext": "png",
+      "bytes": 22609,
+      "file": "embedded/ink-xref-00077.png"
+    },
+    {
+      "xref": 83,
+      "pages": [
+        17
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 14797864,
+      "file": "embedded/ink-xref-00083.png"
+    },
+    {
+      "xref": 84,
+      "pages": [
+        17
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 14797864,
+      "file": "embedded/ink-xref-00084.png"
+    },
+    {
+      "xref": 85,
+      "pages": [
+        17
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 14797864,
+      "file": "embedded/ink-xref-00085.png"
+    },
+    {
+      "xref": 86,
+      "pages": [
+        17
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 14797864,
+      "file": "embedded/ink-xref-00086.png"
+    },
+    {
+      "xref": 87,
+      "pages": [
+        17
+      ],
+      "width": 5810,
+      "height": 4000,
+      "ext": "png",
+      "bytes": 16004306,
+      "file": "embedded/ink-xref-00087.png"
+    }
+  ],
+  "page_content_files": [
+    "pages/ink-page-03-content.png",
+    "pages/ink-page-04-content.png",
+    "pages/ink-page-05-content.png",
+    "pages/ink-page-06-content.png",
+    "pages/ink-page-07-content.png",
+    "pages/ink-page-08-content.png",
+    "pages/ink-page-09-content.png",
+    "pages/ink-page-10-content.png",
+    "pages/ink-page-11-content.png",
+    "pages/ink-page-12-content.png",
+    "pages/ink-page-13-content.png",
+    "pages/ink-page-14-content.png"
+  ]
+}
